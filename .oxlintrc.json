@@ -99,8 +99,7 @@
 		"**/node_modules/**",
 		"**/*.d.ts",
 		"skills/**/scaffold/**",
-		".opencode/skills/**/scaffold/**",
-		".claude/skills/**/scaffold/**",
-		".agents/skills/**/scaffold/**"
+		".agents/skills/**/scaffold/**",
+		".claude/skills/**/scaffold/**"
 	]
 }
